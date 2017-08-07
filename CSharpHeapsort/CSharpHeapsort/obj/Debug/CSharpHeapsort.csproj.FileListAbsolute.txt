@@ -1,0 +1,6 @@
+D:\SourceCodes\practice\CSharpHeapsort\CSharpHeapsort\bin\Debug\CSharpHeapsort.exe.config
+D:\SourceCodes\practice\CSharpHeapsort\CSharpHeapsort\bin\Debug\CSharpHeapsort.exe
+D:\SourceCodes\practice\CSharpHeapsort\CSharpHeapsort\bin\Debug\CSharpHeapsort.pdb
+D:\SourceCodes\practice\CSharpHeapsort\CSharpHeapsort\obj\Debug\CSharpHeapsort.csprojResolveAssemblyReference.cache
+D:\SourceCodes\practice\CSharpHeapsort\CSharpHeapsort\obj\Debug\CSharpHeapsort.exe
+D:\SourceCodes\practice\CSharpHeapsort\CSharpHeapsort\obj\Debug\CSharpHeapsort.pdb
